@@ -1,0 +1,39 @@
+Raesfeld Flughafen = Raesfeld airport
+
+ Berlin
+
+ Bratwurst
+
+ Hauptstrasse  == main road
+
+Brot = bread 
+
+Klimaanlage = air conditioner
+
+ Rammstein
+
+ Porsche
+
+ BMW
+
+ Biergarten = beer garden
+
+ Ratskeller Dirndel
+
+ Lederhose Schloss 
+
+ wettbewerbsfaehig = competitive
+
+ Mehlhase
+
+Gebaeck = pastries
+
+Baeckerei = bakery
+
+ Hund = dog
+
+Doener = donor
+
+Apfelkuchen = apple cake
+
+Schloss Eltz = Beltz castle
